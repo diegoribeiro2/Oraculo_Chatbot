@@ -70,7 +70,7 @@ O projeto também foi publicado na **Streamlit Cloud**, permitindo que qualquer 
 
 ## 🌟 Aprendizados
 
-Com o **Projeto Oráculo**, você aprende:  
+Com o **Projeto Oráculo**, aprendi/pratiquei:
 ✅ Criar aplicações de IA práticas e funcionais.  
 ✅ Usar o Streamlit para desenvolver interfaces simples e poderosas.  
 ✅ Integrar modelos de linguagem via LangChain.  
