@@ -1,6 +1,6 @@
 # 📖 Projeto Oráculo – Chat com Meus Dados  
 
-🔗 **Acesse o aplicativo aqui:** [transcricao-de-reunioes-diego.streamlit.app](https://transcricao-de-reunioes-diego.streamlit.app/)
+🔗 **Acesse o aplicativo aqui:** [oraculochatbot.streamlit.app](https://oraculochatbot.streamlit.app/)
 
 
 O **Oráculo** é um projeto de inteligência artificial que permite criar uma interface de conversação interativa capaz de **conversar com seus próprios dados**.  
